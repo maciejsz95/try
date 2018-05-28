@@ -1,3 +1,4 @@
-print("Hello World")
-#ASPD
-#CHdsada
+def try(try):
+  print(try)
+
+try("try")
